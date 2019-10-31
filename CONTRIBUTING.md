@@ -5,7 +5,7 @@
 
 # Contribution Guidelines
 
-Hello. 👋
+Hello dear volunteer. 👋
 
 freeCodeCamp.org is possible, thanks to thousands of kind volunteers like you. We are grateful for your contributions and are excited to welcome you aboard.
 
@@ -37,7 +37,7 @@ You can help expand them and make their wording better. You can also update the 
 
 ### Help us fix bugs in freeCodeCamp.org's learning platform
 
-Our learning platform runs on a modern JavaScript stack. It has various components, tools, and libraries, including but not limited to, Node.js, MongoDB, LoopBack, OAuth 2.0, React, Gatsby, Webpack, and more.
+Our learning platform runs on a modern JavaScript stack. It has various components, tools, and libraries, including but not limited to, Node.js, MongoDB, OAuth 2.0, React, Gatsby, Webpack, and more.
 
 Broadly,
 
